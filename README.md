@@ -10,12 +10,9 @@ This repository includes the following .py files:
 4.	Mehdi_Rachelle_SI508_Project2 – this file includes all of the code required to run project 2 successfully. A more detailed description of this file can be found below.
 
 In order to run this code, you will need to install the following packages.
-1.	Plotly
-a.	Type the following into your terminal to install:  pip install plotly 
-2.	Requests
-a.	Type the following into your terminal to install: pip install requests
-3.	BeautifulSoup
-a.	Type the following into your terminal to install: pip install beautifulsoup4 
+1.	Plotly - Type the following into your terminal to install Plotly:  pip install plotly 
+2.	Requests - Type the following into your terminal to install Requests: pip install requests
+3.	BeautifulSoup - Type the following into your terminal to install BeautifulSoup: pip install beautifulsoup4 
 
 The code file “Mehdi_Rachelle_SI508_Project2” should already contain the following quoted text at the very top when you download the file. You will need this text to be present in order to run the code successfully: 
 

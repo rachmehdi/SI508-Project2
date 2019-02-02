@@ -11,10 +11,15 @@ This repository includes the following .py files:
 
 You will need to update the secrets file with your own google places API, plotly username and API, and mapbox token in order to successfully run the code.
 
+
 To obtain a google places API, follow the instructions here: https://developers.google.com/places/web-service/get-api-key
+
 To obtain a plotly username and API, follow the instructions here: https://plot.ly/python/getting-started/
+
 To obtain a mapbox token, follow the instructions here: https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens
+
 The specific instructions I used to work with plotly and mapping for this project are here: https://paper.dropbox.com/doc/Plot.ly-Maps-Information--AWwlLViiL44g5cBC0UlleRzbAg-4hAegZ2BaM3JHVUTkGi8z
+
 
 In order to run this code, you will need to install the following packages.
 1.	Plotly - Type the following into your terminal to install Plotly:  pip install plotly 
